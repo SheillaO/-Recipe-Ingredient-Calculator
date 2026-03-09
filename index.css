@@ -250,6 +250,10 @@ button:active {
     box-shadow: 0 6px 20px rgba(239, 68, 68, 0.4);
 }
 
+footer{
+    text-align: center;
+}
+
 /* Responsive Design */
 @media (max-width: 500px) {
     .calculator-box {
